@@ -1,0 +1,1 @@
+This project simulates an amusement park system where people are added to either the regular or luxury queue based on their ticket number. If the ticket is 0, they join the regular queue; if 1, the luxury queue. A latecomer joins beside their friend. A security guard uses a function to remove one undisciplined person or all of them.To view my project, click on second_project.
